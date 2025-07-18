@@ -1,0 +1,20 @@
+# Hide Python virtual environment
+venv/
+
+# Hide Python bytecode cache
+__pycache__/
+
+# Hide environment variables
+.env
+
+# Hide IDE/editor-specific files
+*.vscode/
+*.idea/
+
+# Hide system files
+.DS_Store
+Thumbs.db
+
+# Logs or temp files
+*.log
+*.tmp

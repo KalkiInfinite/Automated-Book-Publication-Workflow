@@ -1,0 +1,8 @@
+openai
+playwright
+chromadb
+streamlit
+python-dotenv
+whisper
+pyttsx3
+sentence-transformers
